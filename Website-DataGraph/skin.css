@@ -1,0 +1,48 @@
+body{
+     background-image:url("https://www.nicocleanllc.com/wp-content/uploads/2014/02/website-background-pattern.jpg");
+    font-family:"Trebuchet MS";
+}
+
+#container{
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+    margin:0 10px 10px 20px;
+
+}
+#main{
+background-color:white;
+    border: 1px solid black;
+}
+#chartPie{
+
+}
+#ichart{
+
+}
+#chart_div{
+    padding-left:75px;
+    padding-right:75px;
+    height:250px;
+
+}
+
+h1{
+    text-align:center;
+    color:mediumpurple;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+
+}
+p{
+    font-size:18px;
+    line-height: 24px;
+}
+#space{
+    text-align:center;
+    border:1px solid black;
+}
